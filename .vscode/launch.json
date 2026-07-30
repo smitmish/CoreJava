@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "Problems.Palindrome",
+            "projectName": "coreJava_706b7597"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "coreJava_706b7597"
+        },
+        {
+            "type": "java",
             "name": "DIString",
             "request": "launch",
             "mainClass": "Problems.DIString",
